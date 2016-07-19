@@ -1,6 +1,9 @@
-# Inspiration theme for syntax highlighting.
+# Inspiration - Atom theme
 
-A syntax highlighting theme that's easy on the eyes and sticks to a simple palette.
-No harsh color differences, no eyesores.
+##Instructons
+---
+**For windows**:
+Place the `inspiration-syntax` folder into `C:\Users\<YourName>\.atom\packages`.
 
-![Preview](http://i.imgur.com/JImVYYh.png)
+**For linux & OS X**:
+Place the `inspiration-syntax` folder into `~/.atom/packages`.
